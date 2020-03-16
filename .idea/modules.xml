@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="provider/app" />
+      <module fileurl="file://$PROJECT_DIR$/braintreepayment/braintreepayment.iml" filepath="$PROJECT_DIR$/braintreepayment/braintreepayment.iml" group="provider/braintreepayment" />
+      <module fileurl="file://$PROJECT_DIR$/nativechekoutpaypal/nativechekoutpaypal.iml" filepath="$PROJECT_DIR$/nativechekoutpaypal/nativechekoutpaypal.iml" group="provider/nativechekoutpaypal" />
+      <module fileurl="file://$PROJECT_DIR$/provider.iml" filepath="$PROJECT_DIR$/provider.iml" group="provider" />
+      <module fileurl="file://$PROJECT_DIR$/stripepayment/stripepayment.iml" filepath="$PROJECT_DIR$/stripepayment/stripepayment.iml" group="provider/stripepayment" />
+    </modules>
+  </component>
+</project>

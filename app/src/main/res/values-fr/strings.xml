@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+    <string name="navigation_drawer_open">Ouvrir la navigation</string>
+    <string name="navigation_drawer_close">Fermer la navigation</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+
+    <string name="copy_rights">OnlyVTC Driver</string>
+
+    <string name="time_placeholder" translatable="false">XX.xx min</string>
+    <string name="text_placeholder" translatable="false">XX xx XX xx</string>
+
+    <!--welcome-->
+    <string name="sign_in">Se connecter</string>
+    <string name="sign_up">S\'inscrire</string>
+    <string name="or_connect_with_social">Connectez-vous avec Facebook ou Google</string>
+
+    <string name="walk_1">Bienvenue</string>
+    <string name="walk_2">Conduire</string>
+    <string name="walk_3">Gagner</string>
+    <string name="walk_1_description">Avec notre application chauffeur vous pourrez accepter les courses de nos utilisateurs.</string>
+    <string name="walk_2_description">Soyez votre propre patron, définissez votre propre horaire. Obtenez les dernières fonctionnalités de conduite entre vos mains.</string>
+    <string name="walk_3_description">Soyez rémunérés au tarif le plus juste et retrouvez le plaisir de conduire !</string>
+    <string name="lorum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum, non proident, sunt in culpa qui officia deserunt mollit anim id est laborum,non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
+    <string name="welcome_back_sign_in_to_continue">Bienvenue, connectez-vous pour continuer</string>
+    <string name="what_your_email_address">Quelle est votre adresse e-mail</string>
+    <string name="enter_your_password">Tapez votre Mot de passe</string>
+    <string name="enter_your_email">Entrer votre Email</string>
+    <string name="i_forgot_my_password">Mot de passe oublié</string>
+    <string name="i_need_to_create_an_account">Créer un compte</string>
+    <string name="invalid_email">Veuillez entrer votre adresse email</string>
+    <string name="invalid_password">Veuillez entrer le Mot de passe oublié</string>
+    <string name="name_exampple_com">nom@exemple.com</string>
+
+    <string name="curr_pwd_val">Veuillez entrer le Mot de passe oublié actuel!</string>
+    <string name="confirm_pwd_val">Veuillez entrer le Mot de passe oublié de confirmation!</string>
+
+    <string name="enter_the_details_you_used_to_register">Entrez les détails pour vous inscrire</string>
+    <string name="email">E-mail</string>
+    <string name="name">Nom</string>
+    <string name="first_name">Prénom</string>
+    <string name="last_name">Nom</string>
+    <string name="phone_number">N° de mobile</string>
+    <string name="password">Mot de passe oublié oublié</string>
+    <string name="confirm_password">Confirmez le Mot de passe oublié</string>
+    <string name="country">Pays</string>
+    <string name="timezone">Fuseau horaire</string>
+    <string name="referral_code">Code de renvoi (facultatif)</string>
+
+    <string name="choose_an_account">Choisissez un compte</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+
+    <!--ForgotPassword Activity-->
+    <string name="enter_your_mail_id_for_recover">Entrez votre email pour la récupération</string>
+    <string name="enter_otp">Entrez OTP</string>
+    <string name="forgot_password_note_msg">Remarque: veuillez saisir l\'envoi d\'OTP à votre adresse email enregistrée.</string>
+    <string name="otp_validation">Le champ OTP est obligatoire</string>
+    <string name="reset_password">Réinitialiser le Mot de passe oublié</string>
+    <string name="name_example_com">nom@exemple.com</string>
+    <string name="new_password">Nouveau Mot de passe oublié</string>
+    <string name="old_password">ANCIENNES Mot de passe oublié</string>
+    <string name="note_please_enter_the_otp_send_tc_your_registered_email_address">Remarque: veuillez saisir l\'envoi d\'OTP à votre adresse email enregistrée.</string>
+
+    <string name="trip_type">Type de trajet</string>
+    <string name="business">Business</string>
+    <string name="personal">Personnel</string>
+    <string name="rental">Location</string>
+    <string name="vehicle_make">Marque du véhicule</string>
+    <string name="vehicle_model">Modèle de véhicule</string>
+    <string name="vehicle_year">Année du véhicule</string>
+    <string name="vehicle_color">Couleur du véhicule</string>
+    <string name="vehicle_license_plate">Plaque d\'immatriculation du véhicule</string>
+    <string name="city">Ville</string>
+    <string name="car_category">Catégorie de voiture</string>
+    <string name="outstation">Station extérieure</string>
+    <string name="shuttle">Navette</string>
+    <string name="round_trip">Aller-retour</string>
+    <string name="one_way">Aller simple</string>
+    <string name="i_have_read_and_agreed_the_n_terms_and_conditions">J\'ai lu et accepté les termes et conditions</string>
+    <string name="title_activity_main">Activité principale</string>
+
+    <string name="payment">Paiement</string>
+    <string name="nav_card">Paiement</string>
+    <string name="your_trips">Vos courses</string>
+    <string name="coupon">Promo</string>
+    <string name="card_payment">Paiement par carte</string>
+    <string name="other_payment">Autres paiements</string>
+    <string name="change_card_for_payments">Carte Bancaire</string>
+    <string name="wallet">Portefeuille</string>
+    <string name="passbook">Livret</string>
+    <string name="help">Aide</string>
+    <string name="share">Partager</string>
+    <string name="share_content_referral">Salut, regardez cette application, %1$s \nUser - https://play.google.com/store/apps/details?id=com.onlyvtc.user\nProvider - https://play.google.com/store/apps/details?id=com.onlyvtc.driver.\nInstall this app with referral code %2$s</string>
+    <string name="invite_referral">Parrainer</string>
+    <string name="faq_support">FAQ Assistance</string>
+    <string name="terms_and_conditions">Termes et conditions</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="logout">Déconnexion</string>
+    <string name="settings">Paramètres</string>
+
+    <string name="nav_header_desc">En-tête de navigation</string>
+    <string name="earnings">Recettes</string>
+    <string name="summary">Tableau de bord</string>
+    <string name="walletTransactions">Document</string>
+
+    <string name="hello_blank_fragment">Bonjour, espace vide</string>
+    <string name="past">ANCIENNES</string>
+    <string name="upcoming">À venir</string>
+
+    <string name="upcoming_trip_details">Détails de la course</string>
+    <string name="no_data_found">Aucune donnée disponible</string>
+    <string name="no_past_found">Aucun trajet passé trouvé</string>
+    <string name="no_upcoming_found">Aucun trajet à venir trouvé</string>
+
+    <string name="booking_id">N° de réservation</string>
+    <string name="booking_id_">N° de réservation: %s</string>
+    <string name="favorites">Favoris</string>
+    <string name="choose_language">Choisissez la langue</string>
+    <string name="lost_my_item">Objet perdu</string>
+    <string name="incorrect_charge_dispute">Conflit de charge incorrect</string>
+    <string name="i_would_like_to_refund">Je voudrais être rembourser</string>
+    <string name="submit">Soumettre</string>
+    <string name="close">Fermer</string>
+    <string name="write_your_comment">Écrivez votre commentaire</string>
+    <string name="reason_for_canceling">Raison de l\'annulation</string>
+    <string name="ratings">Évaluations</string>
+
+    <string name="cancel_ride">Annuler le trajet</string>
+    <string name="call">Appel</string>
+    <string name="pay_via">Payer en</string>
+    <string name="comments">Commentaires</string>
+    <string name="cash">À bord</string>
+    <string name="view_receipt">Voir le reçu</string>
+    <string name="payment_method">Mode de paiement</string>
+
+    <string name="invoice">Facture</string>
+    <string name="pay_now">Payez maintenant</string>
+    <string name="time_taken">Temps pris</string>
+    <string name="distance_travelled">Distance parcourue</string>
+    <string name="base_fare">Tarif de base</string>
+    <string name="distance_fare">Tarif à distance</string>
+    <string name="tax">TVA</string>
+    <string name="tips">Courses</string>
+    <string name="add_tips">Toutes les courses</string>
+    <string name="total">Total</string>
+    <string name="title_activity_help">AideActivité</string>
+    <string name="profile">Profil</string>
+    <string name="service">Service</string>
+    <string name="save">Sauvegarder</string>
+
+    <string name="today_completed_target">Objectif atteint aujourd\'hui</string>
+    <!-- Earning-->
+    <string name="sample_earnings" translatable="false">0/0</string>
+    <string name="target_completed">Objectif</string>
+    <string name="total_earnings">Total des gains</string>
+    <string name="time">Temps</string>
+    <string name="distance">Distance</string>
+    <string name="amount">Montant</string>
+    <string name="no_rides">Pas de courses terminés.</string>
+
+    <!-- Summary-->
+    <string name="total_rides">NOMBRE TOTAL DE COURSES</string>
+    <string name="revenue">CHIFFRE D\'AFFAIRES</string>
+    <string name="schedule_rides">PAS DE COURSES PRÉVUES</string>
+    <string name="canceled_rides">COURSES ANNULÉES</string>
+    <string name="rides">Courses</string>
+    <string name="past_trip_detail">Détail de la course</string>
+    <string name="upcoming_tripdetail">Détail de la course</string>
+
+    <string name="support">Nous contacter</string>
+    <string name="our_team_persons_will_contact_you_soon">Notre équipe vous contactera bientôt!</string>
+    <string name="refer_your_friends_to_drive">Invitez vos amis à conduire!</string>
+    <string name="give_the_free_ride_by_reffering_the_invite_code_worth_10vce">Faites un tour gratuit en vous référant au code d\'invitation valant %s</string>
+    <string name="share_your_invite_code">Partagez votre code d\'invitation</string>
+    <string name="refferal_earning">Gain de référence</string>
+    <string name="total_members">Nombre total de membres</string>
+    <string name="invite_friends">Inviter des amis</string>
+    <string name="invite_refferal">Parrainer</string>
+    <string name="change_password">Changer le Mot de passe oublié</string>
+    <string name="current_password">Mot de passe oublié actuel</string>
+    <string name="looking_to_change_password">Vous voulez changer de Mot de passe oublié</string>
+    <string name="go_offline">SE DÉCONNECTER</string>
+    <string name="go_online">SE CONNECTER</string>
+    <string name="reject">Rejeter</string>
+    <string name="accept">Accepter</string>
+    <string name="pick_up_location">Lieu de prise en charge</string>
+    <string name="drop_location">Lieu de dépôt</string>
+
+    <!--Incoming Request-->
+    <string name="timer_start">1</string>
+    <string name="schedule">Programme</string>
+    <string name="pick_up">Prise en charge </string>
+    <string name="pick_up_invoice">Commencer</string>
+    <string name="drop_at">Déposer à </string>
+
+    <!--Flow status -->
+    <string name="arrived">ARRIVÉE</string>
+    <string name="picked_up">Pris en charge</string>
+    <string name="tap_when_dropped">Déposer</string>
+    <string name="rate_your_trip">Évaluez votre course avec </string>
+
+    <string name="cancel">ANNULER</string>
+
+    <string name="promotion_applied">Promotion appliquée</string>
+    <string name="wallet_detection">Détection de portefeuille</string>
+    <string name="amount_to_be_paid">Montant à payer</string>
+    <string name="write_your_reviews">Écrivez vos avis</string>
+    <string name="confirm_payment">Confirmer le paiement</string>
+    <string name="choose_city">Choisissez une ville</string>
+
+    <string name="invalid_first_name">Entrez le prénom</string>
+    <string name="invalid_last_name">Entrez le nom</string>
+    <string name="invalid_mobile">Entrez un numéro de téléphone valide</string>
+    <string name="validmobile">Entrez un numéro de téléphone valide</string>
+    <string name="invalid_confirm_password">Entrez votre Mot de passe oublié</string>
+    <string name="password_should_be_same">Le Mot de passe oublié doit être identique</string>
+    <string name="invalid_password_length">Le Mot de passe oublié doit être comprise entre 6 et 15 caractères.</string>
+
+    <string name="invalid_old_password">Entrez le Mot de passe oublié</string>
+    <string name="invalid_new_password">Entrez un nouveau Mot de passe oublié</string>
+    <string name="reason_for_cancelling">Raison de l\'annulation</string>
+    <string name="write_your_comments">Ecrivez vos commentaires</string>
+    <string name="no_comments">Sans commentaires</string>
+
+    <string name="card">Paiement</string>
+    <string name="by_cash">À bord</string>
+    <string name="wallet_payment">Paiement de portefeuille</string>
+    <string name="by_wallet">Par portefeuille</string>
+    <string name="by_paypal">Par Paypal</string>
+    <string name="paypal">Paypal</string>
+    <string name="sos">SOS</string>
+
+    <string name="pass_updated">Le Mot de passe oublié a été changé avec succès!</string>
+    <string name="write_something">Ecrire quelque chose…</string>
+    <string name="chat">Chat</string>
+
+    <string name="api_success">Succès de l\'API!</string>
+    <string name="error">Erreur!</string>
+    <string name="please_accept_permission">Veuillez accepter toute l\'autorisation!</string>
+    <string name="call_permission">S\'il vous plaît donner l\'autorisation d\'appeler!</string>
+    <string name="drop_off_location">Lieu de dépôt</string>
+    <string name="log_out_title">Êtes-vous sûr de vouloir vous déconnecter?</string>
+    <string name="ok">OK</string>
+    <string name="login_out_success">Connecté avec succès!</string>
+    <string name="profile_updated">Profil mis à jour!</string>
+    <string name="please_accept_terms_conditions">Veuillez accepter les termes et conditions</string>
+    <string name="no_internet_connection">Désolé! Pas connecté à internet</string>
+    <string name="register_success">Enregistré avec succès…</string>
+    <string name="please_correct_otp">Entrez l\'OTP correcte</string>
+    <string name="password_updated">Mot de passe oublié mis à jour!</string>
+    <string name="cancel_request_title">Êtes-vous sûr de vouloir annuler cette demande?</string>
+    <string name="yes">OUI</string>
+    <string name="no">NON</string>
+    <string name="ride_accepted">Course acceptéé!</string>
+    <string name="ride_cancelled">Course annulée!</string>
+    <string name="tab_when_dropped">TAPEZ LORSQUE DÉPOSÉ</string>
+    <string name="otp_verified">OTP vérifié!</string>
+    <string name="otp_wrong">Mauvais OTP!</string>
+    <string name="english" translatable="false">Anglais</string>
+    <string name="arabic">Arabe</string>
+    <string name="time_fare">Tarif horaire</string>
+    <string name="your_wallet_amount_is">Votre balance est de :</string>
+    <string name="transaction_id">Transaction ID</string>
+    <string name="date">Date</string>
+    <string name="transaction">Transaction</string>
+    <string name="enter_the_amount">Entrez le montant</string>
+    <string name="status">Statut</string>
+    <string name="pending">En attente</string>
+    <string name="no_requested_history">Pas encore de transaction</string>
+    <string name="no_wallet_history">Pas d\'historique de portefeuille</string>
+    <string name="confirm_new_password">Confirmer le nouveau Mot de passe oublié</string>
+    <string name="otp">OTP</string>
+    <string name="account_verification_desc">Votre compte n\'est pas encore vérifié !, Merci de patienter…</string>
+    <string name="banned_desc">Votre compte est désactivé. Veuillez contacter admin…</string>
+    <string name="confirm_request_amt">Confirmez le montant de votre demande</string>
+    <string name="confirm">Confirmer</string>
+    <string name="delete">Effacer</string>
+    <string name="change_card">Oui</string>
+    <string name="card_added">Carte ajoutée</string>
+    <string name="please_enter_card_number">Entrez le numéro de carte</string>
+    <string name="please_enter_card_cvv">Entrez la carte CVV</string>
+    <string name="please_enter_card_expiration_details">Saissisez les détails de l\'expiration de la carte.</string>
+    <string name="card_">XXXX-XXXX-XXXX-</string>
+    <string name="add_card_details">Ajouter les détails de la carte</string>
+    <string name="card_deleted_successfully">Carte supprimée avec succès</string>
+    <string name="are_sure_you_want_to_delete">Êtes-vous sûr de vouloir supprimer?</string>
+    <string name="cant_able_to_delete_card">Impossible de supprimer la carte</string>
+    <string name="are_sure_you_want_to_change_default_card">Êtes-vous sûr de vouloir changer de carte?</string>
+    <string name="are_sure_you_want_to_change_language">Voulez-vous changer de langue?</string>
+    <string name="proceed">Mettre à jour</string>
+    <string name="Add">Ajouter</string>
+    <string name="edit">Modifier</string>
+    <string name="no_document_available">Aucun document disponible</string>
+    <string name="add_all_documents">Veuillez ajouter tous les documents</string>
+    <string name="change_document">Mes documents</string>
+    <string name="no_document_changed">Changer un document et soumettre</string>
+    <string name="invalid_img_file">Sélectionnez le fichier image approprié</string>
+    <string name="server_down">Impossible d\'atteindre le serveur</string>
+    <string name="add_card_for_payments">Ajouter une carte pour les paiements</string>
+    <string name="no_internet">Veuillez vérifiez votre connexion internet</string>
+    <string name="some_thing_wrong">Quelque chose s\'est mal passé!</string>
+    <string name="otp_verification">Vérification OTP</string>
+
+    <string name="please_wait">Veuillez patienter</string>
+    <string name="schedule_for">Programmer pour</string>
+    <string name="please_try_again">Veuillez réessayer!</string>
+    <string name="logout_successfully">Déconnecté avec succès</string>
+    <string name="unauthenticated">Non authentifié</string>
+    <string name="car_model">Modèle de voiture</string>
+    <string name="car_number">Numéro d\'immatriculation</string>
+    <string name="invalid_service_type">Veuillez sélectionner le type de service</string>
+    <string name="invalid_car_model">Entrez le modèle de voiture</string>
+    <string name="invalid_car_number">Entrez l\'immatriculation de la voiture</string>
+    <string name="invalid_phone_number">Entrez un numéro de téléphone</string>
+    <string name="email_already_exist">Cet email existe déjà. Entrez un nouvel email.</string>
+    <string name="mobile_number_already_exist">Le numéro de téléphone existe déjà. Entrez un nouveau numéro de téléphone</string>
+    <string name="phone_number_already_exists">Le numéro de téléphone existe déjà. Entrez un nouveau numéro de téléphone</string>
+    <string name="invalid_selection">Veuillez choisir la raison</string>
+    <string name="please_enter_cancel_reason">Entrez la raison de l\'annulation</string>
+    <string name="dispute">Litige</string>
+    <string name="dismiss">Rejeter</string>
+    <string name="ride_updated">Course mise à jour</string>
+    <string name="destination_change_to">Destination modifiée en% 1s</string>
+    <string name="waiting_time">Temps d\'attente</string>
+    <string name="low_balance">Balance faible! Veuillez régler le montant à l\'administrateur</string>
+    <string name="notification_manager">Mes notifications</string>
+    <string name="empty_notifications">Aucune notification</string>
+    <string name="instant_ride">Course instantanée</string>
+    <string name="where_to">Où aller?</string>
+    <string name="done">Terminé</string>
+    <string name="enter_destination">Entrez votre adresse de destination</string>
+    <string name="confrim_address">Veuillez confirmer l\'adresse</string>
+    <string name="estimated_fare">Prix ​​estimé</string>
+    <string name="add_toll_charge">Ajouter des frais supplémentaire</string>
+    <string name="add_toll">Montant</string>
+    <string name="menu">Menu</string>
+    <string name="lost_item">Objet perdu</string>
+    <string name="mention_the_last_item">Mentionnez le dernier article…</string>
+    <string name="invalid_dispute_comment">Ajoutez un commentaire sur le litige</string>
+    <string name="dispute_created">Litige déjà créé</string>
+    <string name="toll_charges">Frais de péage</string>
+    <string name="add_amount">Ajouter un montant</string>
+    <string name="invalid_amount">Entrez le montant</string>
+    <string name="valid_amount">Entrez un montant valide</string>
+    <string name="new_version_update">Nouvelle version disponible</string>
+    <string name="update_version_message">Une nouvelle version de cette application est disponible dans l\'App Store.</string>
+    <string name="select_service_type">Sélectionnez le type de service</string>
+    <string name="warning">Attention</string>
+    <string name="continue_app">Continuer</string>
+    <string name="user_provider_app_warning">Vous utilisez les applications utilisateur et conducteur dans le même appareil. Donc, l\'application peut ne pas fonctionner correctement.</string>
+    <string name="dispute_status">Statut du litige</string>
+    <string name="qr_scan">QR Scan</string>
+    <string name="description">Description</string>
+    <string name="type">Type</string>
+    <string name="credit">Crédit</string>
+    <string name="debit">Débit</string>
+    <string name="paytm">Paytm</string>
+    <string name="support_call">Appel assistance</string>
+    <string name="braintree">BrainTree</string>
+    <string name="payumoney">Payumoney</string>
+    <string name="qrcode_description">Scannez le QR pour récupérer le numéro de mobile…</string>
+    <string name="referral_code_hint">Code de Parrainage</string>
+    <string name="stripe_key_missing">La clé de bande n\'est pas disponible, veuillez mettre à jour dans le backend…</string>
+    <string name="your_referral_code">Votre code de référence</string>
+    <string name="referral_amount">Montant du renvoi:</string>
+    <string name="show_more">…voir plus</string>
+    <string name="show_less">…voir moins</string>
+    <string name="change">Changement</string>
+    <string name="lost_item_error">La demande d\'objet perdu n\'est pas mise à jour avec succès</string>
+    <string name="payumoney_data_null">PayUmoney null data</string>
+    <string name="draw_permission_not_enable">Dessiner sur une autre autorisation d\'application non activée.</string>
+    <string name="waze_not_installed">Waze n\'est pas installé.</string>
+    <string name="you_do_not_assign_permission">Vous n\'attribuez pas d\'autorisation.</string>
+    <string name="permissions_required">Autorisations requises.</string>
+    <string name="you_denied_permissions">Vous avez refusé avec force certaines des autorisations requises.</string>
+    <string name="please_give_permission">S\'il vous plaît donner la permission</string>
+    <string name="hello_team">Bonjour équipe</string>
+    <string name="send_email">envoyer un mail</string>
+    <string name="api_not_connected">API non connectée</string>
+    <string name="result_not_found">Résultat non trouvé</string>
+    <string name="scan_qrcode">Scannez un QRcode</string>
+    <string name="do_not_set_activity_landscape">Ne définissez pas Activité sur Paysage.</string>
+    <string name="request_sent">Demande envoyée</string>
+    <string name="insufficient_amount">Quantité insuffisante</string>
+    <string name="sunday">Dimanche</string>
+    <string name="monday">Lundi</string>
+    <string name="tuesday">Mardi</string>
+    <string name="wednesday">Mercredi</string>
+    <string name="thursday">Jeudi</string>
+    <string name="friday">Vendredi</string>
+    <string name="saturday">Samedi</string>
+    <string name="never">Jamais</string>
+    <string name="repeat">Répéter</string>
+    <string name="checkout_app">"Salut, Voici une application sympa. Check tu verras : "</string>
+    <string name="stop_location">Lieu du stop</string>
+    <string name="current_ride">Course actuelle</string>
+    <string name="tap_when_stopped">Arrivée</string>
+    <string name="driver_information">Conducteur:</string>
+    <string name="passenger_information">Passager:</string>
+    <string name="booking_information">Réservation:</string>
+    <string name="booking_date_time">Commande</string>
+    <string name="pickup_date_time">Prise en charge</string>
+    <string name="ride_cost">Montant</string>
+    <string name="empty">VIDE</string>
+    <string name="enter_your_mobile_number">Entrez votre numéro de mobile</string>
+    <string name="get_sms">Recevoir le SMS</string>
+    <string name="verify">VÉRIFIER</string>
+    <string name="verify_code">Vérifier le code</string>
+    <string name="verify_sms">Vérification</string>
+
+</resources>
+
+
+
+
+

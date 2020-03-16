@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "239217088447",
+    "firebase_url": "https://vtcprouser.firebaseio.com",
+    "project_id": "vtcprouser",
+    "storage_bucket": "vtcprouser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239217088447:android:5af0e06b514ebabe",
+        "android_client_info": {
+          "package_name": "com.onlyvtc.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239217088447-219o6nfeoc06qf35clqvv76hs0ghviks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKWwXa3avFB3u0BK48v80zjUWztpI_6lY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239217088447:android:8405b151d163a4f6",
+        "android_client_info": {
+          "package_name": "com.onlyvtc.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239217088447-219o6nfeoc06qf35clqvv76hs0ghviks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKWwXa3avFB3u0BK48v80zjUWztpI_6lY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
