@@ -16,8 +16,8 @@ android {
         applicationId "com.onlyvtc"
         minSdkVersion 19
         targetSdkVersion 28
-        versionCode 28
-        versionName "2.2"
+        versionCode 29
+        versionName "2.3"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
         multiDexEnabled true

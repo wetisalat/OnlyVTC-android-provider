@@ -461,7 +461,7 @@ public class RegisterActivity extends BaseActivity implements RegisterIView {
             setUserCountryInfo(country);
 
             SharedHelper.putKey(RegisterActivity.this, Constants.SharedPref.DIAL_CODE,
-                    "+" + countryCode);
+                    countryDialCode);
             SharedHelper.putKey(RegisterActivity.this, Constants.SharedPref.MOBILE,
                     phoneNumber.getText().toString());
             register(SharedHelper.getKey(RegisterActivity.this, Constants.SharedPref.DIAL_CODE),

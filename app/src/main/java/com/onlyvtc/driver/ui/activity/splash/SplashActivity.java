@@ -76,32 +76,34 @@ public class SplashActivity extends BaseActivity implements SplashIView {
         Utilities.printV("FCM TOKEN ID===>", SharedHelper.getKeyFCM(this, "device_id"));
     }
 
-    private void checkUserAppInstalled() {
-        if (Utilities.isPackageExisted(SplashActivity.this, Constants.userAppPackageName))
-            showWarningAlert(getString(R.string.user_provider_app_warning));
-        else redirectToScreen();
-    }
-
-    private void showWarningAlert(String message) {
-        try {
-            AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(SplashActivity.this);
-            alertDialogBuilder
-                    .setTitle(getResources().getString(R.string.warning))
-                    .setMessage(message)
-                    .setCancelable(false)
-                    .setPositiveButton(getResources().getString(R.string.continue_app),
-                            (dialog, id) -> redirectToScreen());
-            AlertDialog alertDialog = alertDialogBuilder.create();
-            alertDialog.show();
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
+////    private void checkUserAppInstalled() {
+////        if (Utilities.isPackageExisted(SplashActivity.this, Constants.userAppPackageName))
+////            showWarningAlert(getString(R.string.user_provider_app_warning));
+////        else redirectToScreen();
+////    }
+////
+//    private void showWarningAlert(String message) {
+//        try {
+//            AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(SplashActivity.this);
+//            alertDialogBuilder
+//                    .setTitle(getResources().getString(R.string.warning))
+//                    .setMessage(message)
+//                    .setCancelable(false)
+//                    .setPositiveButton(getResources().getString(R.string.continue_app),
+//                            (dialog, id) -> redirectToScreen());
+//            AlertDialog alertDialog = alertDialogBuilder.create();
+//            alertDialog.show();
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
+//    }
 
     @Override
     public void verifyAppInstalled() {
-        checkUserAppInstalled();
+//        checkUserAppInstalled();
+        redirectToScreen();
     }
+
 
     private void redirectToScreen() {
         if (SharedHelper.getKey(this, Constants.SharedPref.LOGGGED_IN).equalsIgnoreCase("true"))
